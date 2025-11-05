@@ -50,6 +50,7 @@
       "y": 0,
       "z": 0
     },
+    "_isBatchRoot": false,
     "autoReleaseAssets": false,
     "_globals": {
       "__id__": 35
@@ -112,6 +113,7 @@
       "y": 0,
       "z": 0
     },
+    "_isBatchRoot": false,
     "_id": "beI88Z2HpFELqR4T5EMHpg"
   },
   {
@@ -157,6 +159,7 @@
       "y": 0,
       "z": 0
     },
+    "_isBatchRoot": false,
     "_id": "ebFwiq8gBFaYpqYbdoDODe"
   },
   {
@@ -273,6 +276,7 @@
       "y": 0,
       "z": 0
     },
+    "_isBatchRoot": false,
     "_id": "b3ICb3u7BIkKebxvs4O1Gs"
   },
   {
@@ -324,6 +328,7 @@
       "y": 0,
       "z": 0
     },
+    "_isBatchRoot": false,
     "_id": "acE17E+qVJda2a+uRg3W3W"
   },
   {
@@ -358,6 +363,8 @@
     },
     "_enabled": true,
     "__prefab": null,
+    "openDynamicAtlas": false,
+    "atlasKey": "",
     "_customMaterial": null,
     "_srcBlendFactor": 2,
     "_dstBlendFactor": 4,
@@ -368,8 +375,9 @@
       "b": 255,
       "a": 255
     },
+    "_depth": 0,
     "_spriteFrame": {
-      "__uuid__": "c3eab2ff-4cf3-45de-b751-2822467c119e@f9941",
+      "__uuid__": "e16a160f-f6d5-461c-9230-10facfba38b2@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_type": 0,
@@ -466,6 +474,7 @@
       "y": 0,
       "z": 0
     },
+    "_isBatchRoot": false,
     "_id": "18sLGh7JZFZoCUXI73wDOf"
   },
   {
@@ -500,6 +509,8 @@
     },
     "_enabled": true,
     "__prefab": null,
+    "openDynamicAtlas": false,
+    "atlasKey": "",
     "_customMaterial": null,
     "_srcBlendFactor": 2,
     "_dstBlendFactor": 4,
@@ -510,6 +521,7 @@
       "b": 255,
       "a": 255
     },
+    "_depth": 0,
     "_spriteFrame": {
       "__uuid__": "0aeff372-e4d8-4356-80d9-846a83b95538@f9941",
       "__expectedType__": "cc.SpriteFrame"
@@ -608,6 +620,7 @@
       "y": 0,
       "z": 0
     },
+    "_isBatchRoot": false,
     "_id": "e7OPeoZe9Pgb3D+1KMaKfd"
   },
   {
@@ -642,6 +655,8 @@
     },
     "_enabled": true,
     "__prefab": null,
+    "openDynamicAtlas": false,
+    "atlasKey": "",
     "_customMaterial": null,
     "_srcBlendFactor": 2,
     "_dstBlendFactor": 4,
@@ -652,6 +667,7 @@
       "b": 255,
       "a": 255
     },
+    "_depth": 0,
     "_spriteFrame": {
       "__uuid__": "d4643b83-bd0b-4f34-9a62-9a951b9c3738@f9941",
       "__expectedType__": "cc.SpriteFrame"
@@ -733,6 +749,7 @@
       "y": 0,
       "z": 0
     },
+    "_isBatchRoot": false,
     "_id": "77rrEbhMtESbjm8aRLyQ0A"
   },
   {
@@ -767,6 +784,8 @@
     },
     "_enabled": true,
     "__prefab": null,
+    "openDynamicAtlas": false,
+    "atlasKey": "",
     "_customMaterial": null,
     "_srcBlendFactor": 2,
     "_dstBlendFactor": 4,
@@ -777,6 +796,7 @@
       "b": 255,
       "a": 255
     },
+    "_depth": 0,
     "_spriteFrame": {
       "__uuid__": "aff2c8ba-fc7b-4724-a2fd-0ab9bc61f6f8@f9941",
       "__expectedType__": "cc.SpriteFrame"
@@ -855,6 +875,7 @@
       "y": 0,
       "z": 0
     },
+    "_isBatchRoot": false,
     "_id": "c7jxJg8IhLb7GAwxvwfRYH"
   },
   {
@@ -889,6 +910,8 @@
     },
     "_enabled": true,
     "__prefab": null,
+    "openDynamicAtlas": false,
+    "atlasKey": "",
     "_customMaterial": null,
     "_srcBlendFactor": 2,
     "_dstBlendFactor": 4,
@@ -899,6 +922,7 @@
       "b": 255,
       "a": 255
     },
+    "_depth": 0,
     "_string": "正在加载资源，请稍后…",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
@@ -908,6 +932,7 @@
     "_lineHeight": 40,
     "_overflow": 0,
     "_enableWrapText": true,
+    "_enableAutoLine": true,
     "_font": null,
     "_isSystemFontUsed": true,
     "_spacingX": 0,
@@ -990,6 +1015,7 @@
       "y": 0,
       "z": 0
     },
+    "_isBatchRoot": false,
     "_id": "c3KrmMxY1PRoxoC9bm33zL"
   },
   {
@@ -1024,6 +1050,8 @@
     },
     "_enabled": true,
     "__prefab": null,
+    "openDynamicAtlas": false,
+    "atlasKey": "",
     "_customMaterial": null,
     "_srcBlendFactor": 2,
     "_dstBlendFactor": 4,
@@ -1034,6 +1062,7 @@
       "b": 255,
       "a": 255
     },
+    "_depth": 0,
     "_string": "版本号",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
@@ -1043,6 +1072,7 @@
     "_lineHeight": 20,
     "_overflow": 0,
     "_enableWrapText": true,
+    "_enableAutoLine": true,
     "_font": null,
     "_isSystemFontUsed": true,
     "_spacingX": 0,
